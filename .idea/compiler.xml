@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gyshop-common" />
+        <module name="gyshop-eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gyshop-common" target="1.8" />
+      <module name="gyshop-eureka" target="1.8" />
+      <module name="gyshop-gateway" target="1.8" />
+      <module name="gyshop-parent" target="1.8" />
+      <module name="gyshop-service" target="1.8" />
+      <module name="gyshop-service-api" target="1.8" />
+      <module name="gyshop-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

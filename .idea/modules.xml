@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gy-shop.iml" filepath="$PROJECT_DIR$/.idea/gy-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyshop-parent/gyshop-common/gyshop-common.iml" filepath="$PROJECT_DIR$/gyshop-parent/gyshop-common/gyshop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyshop-parent/gyshop-eureka/gyshop-eureka.iml" filepath="$PROJECT_DIR$/gyshop-parent/gyshop-eureka/gyshop-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyshop-parent/gyshop-gateway/gyshop-gateway.iml" filepath="$PROJECT_DIR$/gyshop-parent/gyshop-gateway/gyshop-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyshop-parent/gyshop-parent.iml" filepath="$PROJECT_DIR$/gyshop-parent/gyshop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyshop-parent/gyshop-service/gyshop-service.iml" filepath="$PROJECT_DIR$/gyshop-parent/gyshop-service/gyshop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyshop-parent/gyshop-service-api/gyshop-service-api.iml" filepath="$PROJECT_DIR$/gyshop-parent/gyshop-service-api/gyshop-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyshop-parent/gyshop-web/gyshop-web.iml" filepath="$PROJECT_DIR$/gyshop-parent/gyshop-web/gyshop-web.iml" />
+    </modules>
+  </component>
+</project>
